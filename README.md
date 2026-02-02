@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![IP Address Tracker Screenshot](./images/Olayinka-IP-Address-Tracker.png)
+(./images/Olayinka-IP-Address-Tracker.png)
 
 
 ---
@@ -30,6 +30,7 @@ Users should be able to:
 - **Solution URL:**(https://github.com/RicoKay22/ip-address-tracker)  
 - **Live Site URL:**(https://ornate-dusk-33e2d1.netlify.app/)
 
+> This project is deployed on **Netlify** for fast and seamless access.
 
 
 ---
