@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/Olayinka-IP-Address-Tracker.png)
+![IP Address Tracker Screenshot](./images/Olayinka-IP-Address-Tracker.png)
 
 
 ---
@@ -31,7 +31,6 @@ Users should be able to:
 - **Live Site URL:**(https://ornate-dusk-33e2d1.netlify.app/)
 
 This project is deployed on **Netlify** for fast and seamless access.
-
 
 ---
 
