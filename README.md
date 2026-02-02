@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![IP Address Tracker Screenshot](./images/Olayinka-IP-Address-Tracker.png)
+![IP Address Tracker Screenshot](./images/olayinka-IP-Address-Tracker.png)
 
 ---
 
