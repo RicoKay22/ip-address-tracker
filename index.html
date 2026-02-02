@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Olayinka IP Address Tracker</title>
+
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <h1>Rico IP Address Tracker</h1>
+
+    <form class="search-form">
+      <input type="text" placeholder="Search for any IP address" aria-label="Search IP address"/>
+      
+      <button type="submit">
+        <img src="./images/icon-arrow.svg" alt="Search" />
+      </button>
+    </form>
+
+    <section class="info-card">
+      <div>
+        <p class="label">IP ADDRESS</p>
+        <p class="value" id="ip">—</p>
+      </div>
+
+      <div>
+        <p class="label">LOCATION</p>
+        <p class="value" id="location">—</p>
+      </div>
+
+      <div>
+        <p class="label">TIMEZONE</p>
+        <p class="value" id="timezone">—</p>
+      </div>
+
+      <div>
+        <p class="label">ISP</p>
+        <p class="value" id="isp">—</p>
+      </div>
+    </section>
+  </header>
+
+  <main id="map"></main>
+  <br><br>
+   <div class="attribution">
+    <p>Challenge by Web3BridgeAfrica FrontendAdvaced, CohortXIV</p> 
+    Coded by <a href="https://github.com/RicoKay22">Olayinka Olumide</a>.
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
