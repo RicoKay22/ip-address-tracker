@@ -66,8 +66,8 @@ This project helped me understand how to:
 In future versions, I would like to:
 
 - Add IP and domain validation before API requests
-- Improve error handling and loading states
-- Secure API requests using a backend or serverless function
+- Improve error handling & loading states
+- Secure API requests via backend or serverless function
 - Improve UI accessibility and color contrast
 
 ---
@@ -90,4 +90,4 @@ In future versions, I would like to:
 
 ## 🙏 Acknowledgments
 
-Special thanks to **Frontend Mentor** for the challenge and **Web3BridgeAfrica** for the structured learning environment and mentorship during the Frontend Advanced cohortXIV program.
+Special thanks to **Frontend Mentor** for the challenge and **Web3BridgeAfrica** for the structured learning environment and mentorship during the Frontend Advanced cohortVIV program.
