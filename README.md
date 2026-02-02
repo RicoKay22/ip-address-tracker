@@ -1,97 +1,92 @@
-Frontend Mentor – IP Address Tracker Solution
+# **Frontend Mentor – IP Address Tracker Solution**
 
-This is a solution to the IP Address Tracker challenge from Frontend Mentor, completed as part of Web3BridgeAfrica Frontend Advanced (Cohort XIV).
+This is my solution to the **IP Address Tracker** challenge from **Frontend Mentor**, completed as part of **Web3BridgeAfrica Frontend Advanced (Cohort XIV)**.  
 The project allows users to view their IP address location on a map and search for other IP addresses using real geolocation data.
 
+---
 
-🧩 Overview
-The challenge
+## 🧩 Overview
+
+### The Challenge
 
 Users should be able to:
 
-View the optimal layout depending on their device’s screen size
+- View the optimal layout depending on their device’s screen size
+- See their own IP address and location on initial page load
+- Search for any IP address and view its geolocation details
+- See the location displayed dynamically on an interactive map
 
-See their own IP address and location on initial page load
+---
 
-Search for any IP address and view its geolocation details
+### Screenshot
 
-See the location displayed dynamically on an interactive map
+(./images/Olayinka-IP-Address-Tracker.png)
 
-Screenshot
+---
 
-(./images/Olayinka IP Address Tracker.png)
+### Links
 
-Links
+- **Solution URL:**(https://github.com/RicoKay22/ip-address-tracker)  
+- **Live Site URL:**(https://ornate-dusk-33e2d1.netlify.app/)
 
-Solution URL: https://www.frontendmentor.io/solutions/ip-address-tracker-using-leafletjs-and-ipify-API
 
-Live Site URL: https://your-netlify-link.netlify.app
 
-(You’ll update these two after deployment.)
+---
 
-⚙️ My process
-Built with
+## ⚙️ My Process
 
-Semantic HTML5
+### Built With
 
-CSS (Mobile-first workflow)
+- Semantic **HTML5**
+- **CSS** (Mobile-first workflow)
+- **CSS Grid & Flexbox**
+- **Vanilla JavaScript**
+- **LeafletJS** for interactive maps
+- **IP Geolocation API** by IPify
 
-CSS Grid & Flexbox
+---
 
-Vanilla JavaScript
-
-LeafletJS
- for interactive maps
-
-IP Geolocation API by IPify
-
-What I learned
+### What I Learned
 
 This project helped me understand how to:
 
-Work with third-party APIs in JavaScript
+- Work with third-party APIs in JavaScript
+- Integrate LeafletJS maps into a real project
+- Debug real-world issues like map rendering and tile loading
+- Handle asynchronous API requests and update the UI dynamically
+- Structure a frontend project properly for deployment
 
-Integrate LeafletJS maps into a real project
+> Note: IP geolocation data can vary depending on ISP routing and network conditions.
 
-Debug real-world issues like map rendering and tile loading
+---
 
-Handle asynchronous API requests and update the UI dynamically
-
-Structure a frontend project properly for deployment
-
-I also learned that IP geolocation data can vary depending on ISP routing and network conditions.
-
-Continued development
+### Continued Development
 
 In future versions, I would like to:
 
-Add IP and domain validation before API requests
+- Add IP and domain validation before API requests
+- Improve error handling and loading states
+- Secure API requests using a backend or serverless function
+- Improve UI accessibility and color contrast
 
-Improve error handling and loading states
+---
 
-Secure API requests using a backend or serverless function
+### Useful Resources
 
-Improve UI accessibility and color contrast
+- [LeafletJS Documentation](https://leafletjs.com/) – Essential for understanding map rendering  
+- [IPify Geolocation API Docs](https://www.ipify.org/) – Helped with API requests and responses  
+- [Frontend Mentor Community](https://www.frontendmentor.io/) – Helpful discussions and feedback
 
-Useful resources
+---
 
-LeafletJS Documentation
- – Essential for understanding map rendering
+## 👤 Author
 
-IPify Geolocation API Docs
- – Helped with API requests and responses
+- **Name:** Olayinka Olumide  
+- **GitHub:** [RicoKay22](https://github.com/RicoKay22)  
+- **Frontend Mentor:** [RicoKay22](https://www.frontendmentor.io/profile/RicoKay22)
 
-Frontend Mentor Community
- – Helpful discussions and feedback
+---
 
-👤 Author
+## 🙏 Acknowledgments
 
-Name: Olayinka Olumide
-
-GitHub: https://github.com/RicoKay22
-
-Frontend Mentor: https://www.frontendmentor.io/profile/RicoKay22
-
-🙏 Acknowledgments
-
-Special thanks to Frontend Mentor for the challenge and Web3BridgeAfrica for the structured learning environment and mentorship during the Frontend Advanced program.
+Special thanks to **Frontend Mentor** for the challenge and **Web3BridgeAfrica** for the structured learning environment and mentorship during the Frontend Advanced program.
