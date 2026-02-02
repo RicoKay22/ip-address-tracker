@@ -22,17 +22,14 @@ Users should be able to:
 
 ![IP Address Tracker Screenshot](./images/Olayinka-IP-Address-Tracker.png)
 
-
 ---
 
 ### Links
 
-### Links
+- **Solution URL (GitHub Repository):** [https://github.com/RicoKay22/ip-address-tracker](https://github.com/RicoKay22/ip-address-tracker)  
+- **Live Site (Netlify Deployment):** [https://ornate-dusk-33e2d1.netlify.app/](https://ornate-dusk-33e2d1.netlify.app/)  
 
-- **Solution URL (GitHub Repository):** [https://github.com/RicoKay22/ip-address-tracker](https://github.com/RicoKay22/ip-address-tracker)
-- **Live Site (Netlify Deployment):** [https://ornate-dusk-33e2d1.netlify.app/](https://ornate-dusk-33e2d1.netlify.app/)
-
-This project is deployed on **Netlify** for fast and seamless access.
+> This project is deployed on **Netlify** for fast and seamless access.
 
 ---
 
@@ -46,6 +43,7 @@ This project is deployed on **Netlify** for fast and seamless access.
 - **Vanilla JavaScript**
 - **LeafletJS** for interactive maps
 - **IP Geolocation API** by IPify
+- **Netlify** for deployment
 
 ---
 
@@ -92,4 +90,4 @@ In future versions, I would like to:
 
 ## 🙏 Acknowledgments
 
-Special thanks to **Frontend Mentor** for the challenge and **Web3BridgeAfrica** for the structured learning environment and mentorship during the Frontend Advanced program.
+Special thanks to **Frontend Mentor** for the challenge and **Web3BridgeAfrica** for the structured learning environment and mentorship during the Frontend Advanced cohortXIV program.
