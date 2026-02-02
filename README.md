@@ -20,7 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![IP Address Tracker Screenshot](./images/ip-tracker-screenshot.png)
+![IP Address Tracker Screenshot](./images/ip-tracker-final.png)
+
 
 
 ---
