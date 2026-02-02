@@ -27,8 +27,10 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:**(https://github.com/RicoKay22/ip-address-tracker)  
-- **Live Site URL:**(https://ornate-dusk-33e2d1.netlify.app/)
+### Links
+
+- **Solution URL (GitHub Repository):** [https://github.com/RicoKay22/ip-address-tracker](https://github.com/RicoKay22/ip-address-tracker)
+- **Live Site (Netlify Deployment):** [https://ornate-dusk-33e2d1.netlify.app/](https://ornate-dusk-33e2d1.netlify.app/)
 
 This project is deployed on **Netlify** for fast and seamless access.
 
